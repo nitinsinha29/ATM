@@ -10,9 +10,9 @@ Basic input/output operations are used for user interaction.
 Simple error handling is implemented (e.g., insufficient funds).
 
 How to Use :
-Create a folder and dowmload all the files in same folder
-Open it in any software and run it
-Verify credentials and use it
+Create a folder and dowmload all the files in same folder.
+Open it in any software and run it.
+Verify credentials and use it.
 
 To-Do:
 Implement PIN verification.
