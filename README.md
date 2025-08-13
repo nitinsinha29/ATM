@@ -19,3 +19,8 @@ Implement PIN verification.
 Add transaction history logging.
 Enhance error handling and user input validation.
 Consider using a database to store account information.
+
+![image alt](https://github.com/nitinsinha29/ATM/blob/b99c8d7df239e2f0fd1c7ca12396dac299b0422a/atmpic.jpg)
+![image alt](
+![image alt](
+![image alt](
