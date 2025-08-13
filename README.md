@@ -22,5 +22,5 @@ Consider using a database to store account information.
 
 ![image alt](https://github.com/nitinsinha29/ATM/blob/b99c8d7df239e2f0fd1c7ca12396dac299b0422a/atmpic.jpg)
 ![image alt](https://github.com/nitinsinha29/ATM/blob/02e74a2beb4bfacbb5fff43d927644ac4fa1074b/2025-08-13%20161315.jpg)
-![image alt](
+![image alt](https://github.com/nitinsinha29/ATM/blob/2414c635479c2dc28319e6472c85b489461ed3b4/atmpic3.jpg)
 ![image alt](
